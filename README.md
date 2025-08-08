@@ -1,5 +1,5 @@
-Hi there my name is TJ
-<h1>Hi, I'm TJ, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+Hi there my name is Telly
+<h1>Hi, I'm Telly, an <a href="https://linkedin.com/in/Telly">IT Professional</a>☺</h1>
 
 <h2> Information Technology Projects:</h2>
 
@@ -12,4 +12,4 @@ Hi there my name is TJ
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tmarion23/azure-network-protocols)
 
 <h2>Connect with me:</h2>
-[linkedin]: https://linkedin.com/in/TJ
+[linkedin]: https://linkedin.com/in/Telly
