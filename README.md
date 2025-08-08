@@ -1,4 +1,4 @@
-Hi there my name is Telly
+
 <h1>Hi, I'm Telly, an <a href="https://linkedin.com/in/Telly">IT Professional</a>☺</h1>
 
 <h2> Information Technology Projects:</h2>
